@@ -1,0 +1,5 @@
+how is a LLM different from RAG:
+
+1. in an LLM , we can give 10000 documents , whole database etc. Not in LLM
+2. in LLM we have to handpick the part which is of exact contextual use. RAG
+    automates that and finds context related part for you

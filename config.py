@@ -3,3 +3,4 @@ OVERLAP = 20
 EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
 COLLECTION_NAME = "documents"
 N_RESULTS = 2
+GEMINI_MODEL_NAME = "gemini-2.5-flash"
